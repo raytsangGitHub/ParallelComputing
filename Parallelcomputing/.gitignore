@@ -1,0 +1,9 @@
+# ignore directory
+.vs/
+[Oo]bj/
+[Bb]in/
+*.txt
+.packages/
+*.user
+*.suo
+*.vscode/
