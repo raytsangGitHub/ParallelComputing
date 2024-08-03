@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParallelcomputingNunit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fdecfd8547cbd8def7071521a0875c77fcbefd2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00a96a7f73c10feb4c2ef311a7853e90251735fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParallelcomputingNunit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParallelcomputingNunit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
