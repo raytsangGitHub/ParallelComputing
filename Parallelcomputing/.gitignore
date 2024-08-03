@@ -26,9 +26,9 @@ mono_crash.*
 
 # Build results
 
-**/[Bb]in/
-**/[Oo]bj/
-**/[Ll]og/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
 *.log
 *.tlog
 **.txt
