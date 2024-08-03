@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallelcomputing", "Parallelcomputing.csproj", "{DC1EEE62-DC7A-42D0-8FC5-C6957EA2D61A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parallelcomputing", "Parallelcomputing.csproj", "{DC1EEE62-DC7A-42D0-8FC5-C6957EA2D61A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentComputing", "..\ConcurrentComputing\ConcurrentComputing.csproj", "{C08901B5-90CC-4189-928E-B65F591E728D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcurrentComputing", "..\ConcurrentComputing\ConcurrentComputing.csproj", "{C08901B5-90CC-4189-928E-B65F591E728D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelcomputingNunit", "..\ParallelcomputingNunit\ParallelcomputingNunit.csproj", "{5CFDB94B-9226-46BC-9305-BBB120DFCE69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelcomputingNunit", "..\ParallelcomputingNunit\ParallelcomputingNunit.csproj", "{5CFDB94B-9226-46BC-9305-BBB120DFCE69}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CBC3586B-46A2-4268-B7B1-FC0056BD3554}"
 	ProjectSection(SolutionItems) = preProject
