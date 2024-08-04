@@ -25,7 +25,6 @@ mono_crash.*
 *.code-workspace
 
 # Build results
-
 [Bb]in/
 [Oo]bj/
 [Ll]og/
