@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelcomputingNunit", ".
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CBC3586B-46A2-4268-B7B1-FC0056BD3554}"
 	ProjectSection(SolutionItems) = preProject
-		..\.gitigore = ..\.gitigore
+		..\.gitignore = ..\.gitignore
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestGitIgnore", "..\TestGitIgnore\TestGitIgnore.csproj", "{15C9AB65-E149-48F4-A8CD-D6983F881FAA}"
