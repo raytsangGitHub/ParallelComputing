@@ -14,24 +14,24 @@
 # Ignore temporary files
 *.tlog
 *.vspscc
-.vscode/
+#.vscode/
 .vs/
 .idea/
 
 # User-specific files
 *.suo
 *.user
-*.userosscache
-*.sln.docstates
+#*.userosscache
+#*.sln.docstates
 
 # Ignore configuration files
-appsettings*.json
+#appsettings*.json
 
 # User-specific files (Mono Auto Generated)
-mono_crash.*
+#mono_crash.*
 
 # User-specific files (Visual Studio Code)
-.history
+#.history
 #.vscode/settings.json
 #.vscode/tasks.json
 #.vscode/launch.json
