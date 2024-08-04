@@ -4,8 +4,8 @@
 # Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # Build results
-**[Bb]in/
-**[Oo]bj/
+[Bb]in/
+[Oo]bj/
 [Ll]og/
 
 # text files
